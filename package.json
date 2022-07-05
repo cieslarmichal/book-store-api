@@ -37,7 +37,7 @@
     "jsonwebtoken": "^8.5.1",
     "path": "^0.12.7",
     "ts-node-dev": "^1.1.8",
-    "typeorm": "^0.2.45"
+    "typeorm": "^0.3.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^6.0.0-alpha.7",
